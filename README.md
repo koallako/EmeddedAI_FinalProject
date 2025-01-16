@@ -12,7 +12,7 @@
 ## 핵심 기능
 
 1. 실시간 얼굴 인식 및 나이 예측
-2. 모델 경량화 (Knowledge Distillation + Pruning)
+2. 모델 경량화 (Knowledge Distillation & Pruning)
 3. 리소스 제약 환경에서의 효율적인 추론
 4. 실시간 성능 모니터링 (FPS, 처리 시간 등)
 
